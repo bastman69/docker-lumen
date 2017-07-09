@@ -21,4 +21,4 @@ QUEUE_DRIVER=sync
 
 5. ```docker-compose up ```wait .........
 
-6. visit http:\\localhost:8080 in your favourite browser
+6. visit ```http:\\localhost:8080``` in your favourite browser
