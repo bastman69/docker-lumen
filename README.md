@@ -1,5 +1,5 @@
-1. git clone https://github.com/bastman69/docker-lumen.git <folder of your choice>
-2. cd to <the folder of your choice>
+1. git clone https://github.com/bastman69/docker-lumen.git folder of your choice
+2. cd to the folder of your choice
 2. create a .env file with the defaults
 ```
 APP_ENV=local
@@ -19,6 +19,6 @@ QUEUE_DRIVER=sync
 ```
 4. install docker & docker-compose (if already installed, move on)
 
-5. docker-compose up wait .........
+5. ```docker-compose up ```wait .........
 
-6. visit http:\\localhost:8080
+6. visit http:\\localhost:8080 in your favourite browser
